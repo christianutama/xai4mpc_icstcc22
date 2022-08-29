@@ -1,0 +1,2 @@
+This is the repository containing the code used to derive the results of the following paper: 
+"Explainable artificial intelligence for deep learning-based model predictive controllers", presented at the 26th International Conference on System Theory, Control and Computing (ICSTCC)

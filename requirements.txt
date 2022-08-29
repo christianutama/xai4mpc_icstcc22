@@ -1,0 +1,10 @@
+casadi==3.5.5.post2
+do_mpc==4.3.3
+joblib==1.1.0
+matplotlib==3.4.3
+numpy==1.18.5
+pandas==1.4.1
+scikit_learn==1.1.2
+scipy==1.8.0
+shap==0.40.0
+tensorflow==2.3.0
